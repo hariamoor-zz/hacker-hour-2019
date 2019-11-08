@@ -1,4 +1,4 @@
-# Hacker Hour 2019 - Python 3
+# Hacker Hour 2019 - Python
 
 The code inside `calculator.py` solves arbitrary arithmetic expressions in Python
 
